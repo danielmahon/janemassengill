@@ -5,6 +5,9 @@ backend:
 media_folder: static/img
 public_folder: /img
 
+publish_mode: editorial_workflow
+site_url: https://janemassengill.netlify.com
+
 collections:
   - name: "blog"
     label: "Blog"
